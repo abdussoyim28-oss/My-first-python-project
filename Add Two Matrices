@@ -1,0 +1,6 @@
+Martrice A=[[1,2,3],[4,5,6],[7,8,9]]
+Matrice B=[[3,4,5],[7,8,9],[5,6,7]]
+sum_matrix_nested = add_matrices_nested_loops(matrix_A, matrix_B)
+print("Matrix sum (nested loops):")
+for row in sum_matrix_nested:
+    print(row)
